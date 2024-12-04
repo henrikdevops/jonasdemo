@@ -1,16 +1,16 @@
 # demorepo
 
-Authors: Jonas, Nez, Oliver och Henrik
+- Authors: Jonas, Nez, Oliver och Henrik
 
-  En dag i Stockholm.
-  Imorgon i Alvik igen.
+- **En dag** i Stockholm.
+- _Imorgon_ i Alvik igen.
 
-Imorgon reser jag hem igen. 
+`Imorgon reser jag hem igen. `
 
 
-Snö. Jul. Kul!
-
+## Snö. Jul. Kul!
 Nu är jag i branchen jonas.
+
 IM HERE AGAIN!!
 
-Henrikdevops is here!!
+_Henrikdevops_ is here!!
