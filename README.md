@@ -14,3 +14,13 @@ Nu är jag i branchen jonas.
 IM HERE AGAIN!!
 
 _Henrikdevops_ is here!!
+
+```yaml
+---
+apiVersion: v1
+kind: Nothing
+meta:
+  name: nothing
+```
+
+
